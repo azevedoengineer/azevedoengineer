@@ -6,8 +6,6 @@
 
 - 🌱 No momento estou aprendendo **JAVA, Python, SQL, IA e Archimate.**
 
-- 📫 Entre em contato **azevedo.engineer@gmail.com**
-
 - ⚡ Curiosidade **Amante da Música Reggae**
 
 <h3 align="left">Connect with me:</h3>
