@@ -1,4 +1,4 @@
-# Hi 👋, I'm BRENO AZEVEDO
+# E ai 👋, Eu sou BRENO AZEVEDO
 
 ### Conhecendo e desbravando a programação, evoluindo em Arquitetura de Negócios, Solução e Software
 
@@ -24,4 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azevedoengineer&" alt="azevedoengineer" /></p>
 
-<img width="498" height="329" alt="image" src="https://github.com/user-attachments/assets/e12122b6-7c82-4185-be04-7281e6881446" />
+<img width="498" height="329" alt="Image" src="https://github.com/user-attachments/assets/ddadc069-b5a1-433a-b9b1-e140bf3f9faf" />
+<img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/d582bfde-cab6-498c-9b5c-9077f4ed3da8" />
