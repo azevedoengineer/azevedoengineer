@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azevedoengineer&show_icons=true&locale=en" alt="azevedoengineer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azevedoengineer&" alt="azevedoengineer" /></p>
+
+<img width="498" height="329" alt="image" src="https://github.com/user-attachments/assets/e12122b6-7c82-4185-be04-7281e6881446" />
