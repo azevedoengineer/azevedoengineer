@@ -6,7 +6,7 @@
 
 - 🌱 No momento estou aprendendo **JAVA, Python, SQL, IA e Archimate.**
 
-- ⚡ Curiosidade **Amante da Música Reggae**
+- ⚡ Curiosidade **Amante da Música Reggae e da série Band of Brothers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
